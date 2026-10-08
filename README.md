@@ -8,13 +8,9 @@ At LNRS, I work on agentic workflows for fraud-model optimisation, with a focus 
 
 My employer work is internal; the repositories below are independent personal projects.
 
-### [FitMimic — virtual try-on prototype](https://github.com/OwenC05/fashion-tryon)
-
-A Next.js and TypeScript application integrating the third-party FASHN API through server-side requests and asynchronous job polling. FASHN supplies model inference; my focus is API orchestration and the user-facing workflow. The prototype requires external service credentials for live requests.
-
 ### [Portfolio — personal website source](https://github.com/OwenC05/Portfolio)
 
-The public source for my personal website, built with Next.js and TypeScript, with additional background on my interests and experience.
+The public source for my personal website, built with Next.js and TypeScript, gives additional background on my interests, experiences and everything ive done up to date.
 
 ## Engineering interests
 
