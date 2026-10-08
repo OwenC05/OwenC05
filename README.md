@@ -1,6 +1,6 @@
 # Owen Cheung
 
-AI Engineer at LexisNexis Risk Solutions (LNRS) and final-year Computer Science & AI student at the University of Bath.
+AI Engineer at LexisNexis Risk Solutions (LNRS) and final-year Computer Science & AI student at the University of Bath. What I love most is finding cool new solutions and seeing how I can build them into existing ones. The research to implementation is simply fascinating.
 
 At LNRS, I work on agentic workflows for fraud-model optimisation, with a focus on recoverable execution, persistent state, audit trails, and human review gates.
 
@@ -12,9 +12,13 @@ My employer work is internal; the repositories below are independent personal pr
 
 The public source for my personal website, built with Next.js and TypeScript, gives additional background on my interests, experiences and everything ive done up to date.
 
+### [Typeforge](https://github.com/OwenC05/TypeForge)
+
+Source for my typing project, all about optimizing how we type and how to get better
+
 ## Engineering interests
 
-My work connects Python orchestration with data science and model evaluation. My data science placement involved Python, SQL, and Snowflake; my current focus is making model-optimisation workflows recoverable and reviewable.
+My work connects Python orchestration with data science and model evaluation. My data science placement involved Python, SQL, and Snowflake; my current focus is making model-optimisation workflows agentic, recoverable and reviewable.
 
 ## Contact
 
