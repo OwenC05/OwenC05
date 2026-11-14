@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="92" viewBox="0 0 900 92" role="img" aria-label="Blue and cyan flowing lines">
+  <defs>
+    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#6366f1"/>
+      <stop offset=".5" stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#2dd4bf"/>
+    </linearGradient>
+  </defs>
+  <path d="M0 38C150 -8 300 90 450 50S750 0 900 40V92H0Z" fill="url(#wave)" opacity=".14"/>
+  <path d="M0 55C150 10 300 105 450 66S750 20 900 56V92H0Z" fill="url(#wave)" opacity=".28"/>
+  <path d="M0 72C150 32 300 120 450 82S750 42 900 73V92H0Z" fill="url(#wave)"/>
+</svg>
