@@ -1,18 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="238" viewBox="0 0 900 238" role="img" aria-labelledby="title description">
 <title id="title">Owen's contribution rhythm</title>
-<desc id="description">105 GitHub contributions across 26 calendar weeks, 17 May 2026 – 14 Nov 2026. Weekly totals; the latest week may be incomplete.</desc>
+<desc id="description">106 GitHub contributions across 26 calendar weeks, 17 May 2026 – 14 Nov 2026. Weekly totals; the latest week may be incomplete.</desc>
 <defs><linearGradient id="fill" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#22d3ee" stop-opacity="0.35"/><stop offset="1" stop-color="#70a5fd" stop-opacity="0.02"/></linearGradient></defs>
 <rect x="0.5" y="0.5" width="899" height="237" rx="14" fill="#0d1117" stroke="#30363d"/>
 <g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif">
 <text x="30" y="34" fill="#e6edf3" font-size="18" font-weight="600">Contribution rhythm</text>
-<text x="30" y="58" fill="#9da7b3" font-size="12">105 contributions · 17 May 2026 – 14 Nov 2026</text>
+<text x="30" y="58" fill="#9da7b3" font-size="12">106 contributions · 17 May 2026 – 14 Nov 2026</text>
 <path d="M60,178H868" stroke="#30363d" stroke-dasharray="3 5"/><text x="46" y="182" text-anchor="end" fill="#9da7b3" font-size="11">0</text>
 <path d="M60,155.5H868" stroke="#30363d" stroke-dasharray="3 5"/><text x="46" y="159.5" text-anchor="end" fill="#9da7b3" font-size="11">9</text>
 <path d="M60,133H868" stroke="#30363d" stroke-dasharray="3 5"/><text x="46" y="137" text-anchor="end" fill="#9da7b3" font-size="11">18</text>
 <path d="M60,110.5H868" stroke="#30363d" stroke-dasharray="3 5"/><text x="46" y="114.5" text-anchor="end" fill="#9da7b3" font-size="11">27</text>
 <path d="M60,88H868" stroke="#30363d" stroke-dasharray="3 5"/><text x="46" y="92" text-anchor="end" fill="#9da7b3" font-size="11">36</text>
-<path d="M 60,178 L 60.0,178.0 L 92.3,178.0 L 124.6,178.0 L 157.0,178.0 L 189.3,178.0 L 221.6,178.0 L 253.9,178.0 L 286.2,178.0 L 318.6,178.0 L 350.9,178.0 L 383.2,123.0 L 415.5,178.0 L 447.8,178.0 L 480.2,178.0 L 512.5,178.0 L 544.8,178.0 L 577.1,178.0 L 609.4,178.0 L 641.8,178.0 L 674.1,145.5 L 706.4,93.0 L 738.7,103.0 L 771.0,165.5 L 803.4,175.5 L 835.7,178.0 L 868.0,178.0 L 868,178 Z" fill="url(#fill)"/>
-<polyline points="60.0,178.0 92.3,178.0 124.6,178.0 157.0,178.0 189.3,178.0 221.6,178.0 253.9,178.0 286.2,178.0 318.6,178.0 350.9,178.0 383.2,123.0 415.5,178.0 447.8,178.0 480.2,178.0 512.5,178.0 544.8,178.0 577.1,178.0 609.4,178.0 641.8,178.0 674.1,145.5 706.4,93.0 738.7,103.0 771.0,165.5 803.4,175.5 835.7,178.0 868.0,178.0" fill="none" stroke="#70a5fd" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 60,178 L 60.0,178.0 L 92.3,178.0 L 124.6,178.0 L 157.0,178.0 L 189.3,178.0 L 221.6,178.0 L 253.9,178.0 L 286.2,178.0 L 318.6,178.0 L 350.9,178.0 L 383.2,123.0 L 415.5,178.0 L 447.8,178.0 L 480.2,178.0 L 512.5,178.0 L 544.8,178.0 L 577.1,178.0 L 609.4,178.0 L 641.8,178.0 L 674.1,145.5 L 706.4,93.0 L 738.7,103.0 L 771.0,165.5 L 803.4,175.5 L 835.7,178.0 L 868.0,175.5 L 868,178 Z" fill="url(#fill)"/>
+<polyline points="60.0,178.0 92.3,178.0 124.6,178.0 157.0,178.0 189.3,178.0 221.6,178.0 253.9,178.0 286.2,178.0 318.6,178.0 350.9,178.0 383.2,123.0 415.5,178.0 447.8,178.0 480.2,178.0 512.5,178.0 544.8,178.0 577.1,178.0 609.4,178.0 641.8,178.0 674.1,145.5 706.4,93.0 738.7,103.0 771.0,165.5 803.4,175.5 835.7,178.0 868.0,175.5" fill="none" stroke="#70a5fd" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
 <circle cx="60" cy="178" r="3" fill="#22d3ee"><title>Week 2026-05-17 to 2026-05-23: 0 contributions</title></circle>
 <circle cx="92.32" cy="178" r="3" fill="#22d3ee"><title>Week 2026-05-24 to 2026-05-30: 0 contributions</title></circle>
 <circle cx="124.64" cy="178" r="3" fill="#22d3ee"><title>Week 2026-05-31 to 2026-06-06: 0 contributions</title></circle>
@@ -38,7 +38,7 @@
 <circle cx="771.04" cy="165.5" r="3" fill="#22d3ee"><title>Week 2026-10-18 to 2026-10-24: 5 contributions</title></circle>
 <circle cx="803.36" cy="175.5" r="3" fill="#22d3ee"><title>Week 2026-10-25 to 2026-10-31: 1 contributions</title></circle>
 <circle cx="835.68" cy="178" r="3" fill="#22d3ee"><title>Week 2026-11-01 to 2026-11-07: 0 contributions</title></circle>
-<circle cx="868" cy="178" r="3" fill="#22d3ee"><title>Week 2026-11-08 to 2026-11-14: 0 contributions</title></circle>
+<circle cx="868" cy="175.5" r="3" fill="#22d3ee"><title>Week 2026-11-08 to 2026-11-14: 1 contributions</title></circle>
 <text x="60" y="198" text-anchor="middle" fill="#9da7b3" font-size="11">May</text>
 
 
