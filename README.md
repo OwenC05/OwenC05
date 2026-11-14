@@ -13,26 +13,19 @@ Final-year **Computer Science & AI** student at the **University of Bath**
 [![Selected work](https://img.shields.io/badge/Selected_Work-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8)](#-selected-work)
 [![Let's connect](https://img.shields.io/badge/Let's_Connect-0891B2?style=for-the-badge&logo=handshake&logoColor=white)](#-lets-connect)
 
-*Finding interesting ideas. Figuring out how they work. Building them into something useful.*
+*Just messing around with interesting things, seeing how they work, and putting them into use*
 
 </div>
 
 ---
 
-## 🎯 What I'm working on
+## What I'm working on rn
 
-At LNRS, I work on agentic workflows for fraud-model optimisation: **recoverable execution, persistent state, audit trails, and human review**. My data science placement involved Python, SQL, and Snowflake.
+At LNRS, I work on agentic workflows for fraud-model optimisation
 
 Outside work, I'm exploring how to connect model evaluation, developer tooling, and useful software people can actually interact with.
 
-```text
-🧠 Focus       Applied AI & agentic workflows
-🛠️ Building    TypeForge & Application Copilot
-🔎 Exploring   Model evaluation & recoverable systems
-☕ Offline     Coffee, snowboarding & mechanical keyboards
-```
-
-## 🛠️ Tools I build with
+## Tools I build with
 
 <div align="center">
 
@@ -53,25 +46,25 @@ Outside work, I'm exploring how to connect model evaluation, developer tooling, 
 
 ---
 
-## 🚀 Selected work
+## Selected work
 
 *These are independent personal projects. My employer work is internal.*
 
-### ⌨️ [TypeForge](https://github.com/OwenC05/TypeForge)
+### [TypeForge](https://github.com/OwenC05/TypeForge)
 
 A local-first typing app connecting browser-based practice with a Python timing-model benchmark. Native input, local history, and versioned model artifacts bring the experiment into the product.
 
 **TypeScript · Python · Browser inference · Model evaluation**<br />
 [Explore the code →](https://github.com/OwenC05/TypeForge) · [ML experiment →](https://github.com/OwenC05/TypeForge/tree/main/ml)
 
-### 🧭 [Application Copilot](https://github.com/OwenC05/applications)
+### [Application Copilot](https://github.com/OwenC05/applications)
 
 A local-first application workspace with a Python/FastAPI evidence workbench: hybrid retrieval, source inspection, durable workers, and reviewable AI drafting. An evolving project, with full-workflow and semantic-quality qualification still in progress.
 
 **Python · FastAPI · Retrieval · Durable workflows**<br />
 [Explore the code →](https://github.com/OwenC05/applications)
 
-### 🌐 [Portfolio](https://github.com/OwenC05/Portfolio)
+### [Portfolio](https://github.com/OwenC05/Portfolio)
 
 The source for my personal website: a home for my projects, background, and engineering interests.
 
@@ -80,7 +73,7 @@ The source for my personal website: a home for my projects, background, and engi
 
 ---
 
-## 📈 Building, one contribution at a time
+## Building, one contribution at a time
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-dark.svg" />
@@ -98,7 +91,7 @@ The source for my personal website: a home for my projects, background, and engi
 
 ---
 
-## 📫 Let's connect
+## Let's connect
 
 Happy to talk about **applied AI, data science, software engineering**, or what you're building next.
 
