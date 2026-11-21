@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="238" viewBox="0 0 900 238" role="img" aria-labelledby="title description">
 <title id="title">Owen's contribution rhythm</title>
-<desc id="description">346 GitHub contributions across 26 calendar weeks, 24 May 2026 – 20 Nov 2026. Weekly totals; the latest week may be incomplete.</desc>
+<desc id="description">346 GitHub contributions across 26 calendar weeks, 24 May 2026 – 21 Nov 2026. Weekly totals; the latest week may be incomplete.</desc>
 <defs><linearGradient id="fill" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#0891b2" stop-opacity="0.35"/><stop offset="1" stop-color="#0969da" stop-opacity="0.02"/></linearGradient></defs>
 <rect x="0.5" y="0.5" width="899" height="237" rx="14" fill="#f6f8fa" stroke="#d1d9e0"/>
 <g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif">
 <text x="30" y="34" fill="#1f2328" font-size="18" font-weight="600">Contribution rhythm</text>
-<text x="30" y="58" fill="#59636e" font-size="12">346 contributions · 24 May 2026 – 20 Nov 2026</text>
+<text x="30" y="58" fill="#59636e" font-size="12">346 contributions · 24 May 2026 – 21 Nov 2026</text>
 <path d="M60,178H868" stroke="#d8dee4" stroke-dasharray="3 5"/><text x="46" y="182" text-anchor="end" fill="#59636e" font-size="11">0</text>
 <path d="M60,155.5H868" stroke="#d8dee4" stroke-dasharray="3 5"/><text x="46" y="159.5" text-anchor="end" fill="#59636e" font-size="11">60</text>
 <path d="M60,133H868" stroke="#d8dee4" stroke-dasharray="3 5"/><text x="46" y="137" text-anchor="end" fill="#59636e" font-size="11">120</text>
@@ -38,7 +38,7 @@
 <circle cx="771.04" cy="177.625" r="3" fill="#0891b2"><title>Week 2026-10-25 to 2026-10-31: 1 contributions</title></circle>
 <circle cx="803.36" cy="178" r="3" fill="#0891b2"><title>Week 2026-11-01 to 2026-11-07: 0 contributions</title></circle>
 <circle cx="835.68" cy="176.875" r="3" fill="#0891b2"><title>Week 2026-11-08 to 2026-11-14: 3 contributions</title></circle>
-<circle cx="868" cy="88.75" r="3" fill="#0891b2"><title>Week 2026-11-15 to 2026-11-20: 238 contributions</title></circle>
+<circle cx="868" cy="88.75" r="3" fill="#0891b2"><title>Week 2026-11-15 to 2026-11-21: 238 contributions</title></circle>
 <text x="60" y="198" text-anchor="middle" fill="#59636e" font-size="11">May</text>
 
 <text x="124.64" y="198" text-anchor="middle" fill="#59636e" font-size="11">Jun</text>
