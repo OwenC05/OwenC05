@@ -7,7 +7,7 @@
 [![Typing introduction: AI engineering, applied machine learning, and turning research into working software](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3200&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&height=55&lines=AI+engineering+%26+applied+machine+learning;From+research+to+working+software;Always+something+new+to+build)](https://github.com/OwenC05)
 
 **AI Engineer at LexisNexis Risk Solutions**<br />
-Final-year **Computer Science & AI** student at the **University of Bath**
+Final-year **CS & AI** student at the **University of Bath**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/owen-cheung-472998225/)
 [![Selected work](https://img.shields.io/badge/Selected_Work-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8)](#-selected-work)
@@ -21,7 +21,7 @@ Final-year **Computer Science & AI** student at the **University of Bath**
 
 ## What I'm working on rn
 
-At LNRS, I work on agentic workflows for fraud-model optimisation
+At LNRS, I work on agentic workflows for fraud-model optimisation and internal tooling
 
 Outside work, I'm exploring how to connect model evaluation, developer tooling, and useful software people can actually interact with.
 
@@ -48,7 +48,7 @@ Outside work, I'm exploring how to connect model evaluation, developer tooling, 
 
 ## Selected work
 
-*These are independent personal projects. My employer work is internal.*
+*My independent personal projects. My employer work is internal.*
 
 ### [TypeForge](https://github.com/OwenC05/TypeForge)
 
