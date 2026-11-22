@@ -23,7 +23,7 @@ Final-year **CS & AI** student at the **University of Bath**
 
 At LNRS, I work on agentic workflows for fraud-model optimisation and internal tooling
 
-Outside work, I'm exploring how to connect model evaluation, developer tooling, and useful software people can actually interact with.
+Outside work, I'm exploring how to connect model evaluation, developer tooling, and useful software people can actually interact with. Also, I LOVE AUTOMATION AND OPTIMIZING PROCESSES.
 
 ## Tools I build with
 
