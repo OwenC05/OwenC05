@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="110" height="28" viewBox="0 0 110 28" role="img" aria-label="Portfolio">
+  <title>Portfolio</title>
+  <rect width="110" height="28" fill="#0e7490"/>
+  <g fill="none" stroke="white" stroke-width="1.5">
+    <circle cx="18" cy="14" r="7"/>
+    <ellipse cx="18" cy="14" rx="3" ry="7"/>
+    <path d="M11 14h14"/>
+  </g>
+  <text x="33" y="18" textLength="67" lengthAdjust="spacingAndGlyphs" fill="white" font-family="Verdana, Geneva, sans-serif" font-size="11" font-weight="bold" letter-spacing=".7">PORTFOLIO</text>
+</svg>

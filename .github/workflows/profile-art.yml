@@ -2,13 +2,14 @@ name: Refresh profile artwork
 
 on:
   schedule:
-    - cron: '23 6 * * *'
+    - cron: '23 */4 * * *'
   workflow_dispatch:
   push:
     branches: [main]
     paths:
       - '.github/workflows/profile-art.yml'
       - 'scripts/render-activity.mjs'
+      - 'scripts/verify-snake.py'
 
 permissions: {}
 
@@ -41,8 +42,16 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            assets/snake-light.svg?palette=github-light&color_snake=%230969da
-            assets/snake-dark.svg?palette=github-dark&color_snake=%2322d3ee
+            assets/snake-light.svg {"palette":"github-light","color_snake":"#0969da","color_dots":["#eff2f5","#aceebb","#4ac26b","#2da44e","#116329"],"color_dot_border":"#1f23280d"}
+            assets/snake-dark.svg {"palette":"github-dark","color_snake":"#22d3ee","color_dots":["#151b23","#033a16","#196c2e","#2ea043","#56d364"],"color_dot_border":"#0104090d"}
+
+      - name: Check both snakes against the public profile calendar
+        env:
+          PROFILE_OWNER: ${{ github.repository_owner }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          curl --fail --silent --show-error --retry 2 "https://github.com/users/$PROFILE_OWNER/contributions" | python3 scripts/verify-snake.py
 
       - name: Save updated artwork
         shell: bash

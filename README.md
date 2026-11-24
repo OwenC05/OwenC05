@@ -9,9 +9,9 @@
 **AI Engineer at LexisNexis Risk Solutions**<br />
 Final-year **CS & AI** student at the **University of Bath**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/owen-cheung-472998225/)
-[![Selected work](https://img.shields.io/badge/Selected_Work-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8)](#-selected-work)
-[![Let's connect](https://img.shields.io/badge/Let's_Connect-0891B2?style=for-the-badge&logo=handshake&logoColor=white)](#-lets-connect)
+[![Portfolio](./assets/badges/portfolio.svg)](https://owencdev.info/)
+[![GitHub](./assets/badges/github.svg)](https://github.com/OwenC05)
+[![LinkedIn](./assets/badges/linkedin.svg)](https://www.linkedin.com/in/owencheungcs/)
 
 *Just messing around with interesting things, seeing how they work, and putting them into use*
 
@@ -39,8 +39,8 @@ Outside work, I'm exploring how to connect model evaluation, developer tooling, 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-![Codex](https://img.shields.io/badge/Codex-0F172A?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Codex](./assets/badges/codex.svg)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 
 </div>
 
@@ -78,7 +78,7 @@ The source for my personal website: a home for my projects, background, and engi
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/activity-light.svg" />
-  <img src="./assets/activity-light.svg" width="100%" alt="Owen's GitHub contributions, aggregated weekly over the last 26 weeks. Refreshed daily." />
+  <img src="./assets/activity-light.svg" width="100%" alt="Owen's GitHub contributions, aggregated weekly over the last 26 weeks." />
 </picture>
 
 ## 🐍 Feeding the contribution snake
@@ -86,7 +86,7 @@ The source for my personal website: a home for my projects, background, and engi
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/snake-light.svg" />
-  <img src="./assets/snake-light.svg" width="100%" alt="Animated snake following Owen's GitHub contribution calendar." />
+  <img src="./assets/snake-light.svg" width="100%" alt="Animated snake following the past year of contributions on Owen's public GitHub calendar." />
 </picture>
 
 ---
@@ -97,8 +97,8 @@ Happy to talk about **applied AI, data science, software engineering**, or what 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Owen_Cheung-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/owen-cheung-472998225/)
-[![GitHub](https://img.shields.io/badge/OwenC05-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OwenC05)
+[![GitHub](./assets/badges/github.svg)](https://github.com/OwenC05)
+[![LinkedIn](./assets/badges/linkedin.svg)](https://www.linkedin.com/in/owencheungcs/)
 
 *The research-to-implementation part is my favourite.*
 
